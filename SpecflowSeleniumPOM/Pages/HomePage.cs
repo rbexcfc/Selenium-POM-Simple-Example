@@ -14,16 +14,16 @@ namespace SpecflowSeleniumPOM.Pages
         private IWebDriver driver;
 
         [FindsBy(How = How.Id, Using = "twotabsearchtextbox")]
-        public IWebElement searchBox;
+        private IWebElement searchBox;
 
         [FindsBy(How = How.ClassName, Using = "nav-input")]
-        public IWebElement searchButton;
+        private IWebElement searchButton;
 
         [FindsBy(How = How.LinkText, Using = "adidas Men's Chelsea Fc 2016 Home Jersey")]
-        public IWebElement chelseaShirt;
+        private IWebElement chelseaShirt;
 
         [FindsBy(How = How.Id, Using = "productTitle")]
-        public IWebElement productTitle;
+        private IWebElement productTitle;
 
         public HomePage(IWebDriver driver)
         {
