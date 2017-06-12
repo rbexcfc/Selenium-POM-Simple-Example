@@ -1,0 +1,13 @@
+c:\users\notso\onedrive\documents\visual studio 2017\Projects\SpecflowSeleniumPOM\SpecflowSeleniumPOM\obj\Debug\SpecflowSeleniumPOM.csprojResolveAssemblyReference.cache
+c:\users\notso\onedrive\documents\visual studio 2017\Projects\SpecflowSeleniumPOM\SpecflowSeleniumPOM\bin\Debug\SpecflowSeleniumPOM.dll.config
+c:\users\notso\onedrive\documents\visual studio 2017\Projects\SpecflowSeleniumPOM\SpecflowSeleniumPOM\bin\Debug\SpecflowSeleniumPOM.dll
+c:\users\notso\onedrive\documents\visual studio 2017\Projects\SpecflowSeleniumPOM\SpecflowSeleniumPOM\bin\Debug\SpecflowSeleniumPOM.pdb
+c:\users\notso\onedrive\documents\visual studio 2017\Projects\SpecflowSeleniumPOM\SpecflowSeleniumPOM\bin\Debug\nunit.framework.dll
+c:\users\notso\onedrive\documents\visual studio 2017\Projects\SpecflowSeleniumPOM\SpecflowSeleniumPOM\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\notso\onedrive\documents\visual studio 2017\Projects\SpecflowSeleniumPOM\SpecflowSeleniumPOM\bin\Debug\WebDriver.dll
+c:\users\notso\onedrive\documents\visual studio 2017\Projects\SpecflowSeleniumPOM\SpecflowSeleniumPOM\bin\Debug\WebDriver.Support.dll
+c:\users\notso\onedrive\documents\visual studio 2017\Projects\SpecflowSeleniumPOM\SpecflowSeleniumPOM\bin\Debug\nunit.framework.xml
+c:\users\notso\onedrive\documents\visual studio 2017\Projects\SpecflowSeleniumPOM\SpecflowSeleniumPOM\bin\Debug\WebDriver.xml
+c:\users\notso\onedrive\documents\visual studio 2017\Projects\SpecflowSeleniumPOM\SpecflowSeleniumPOM\bin\Debug\WebDriver.Support.xml
+c:\users\notso\onedrive\documents\visual studio 2017\Projects\SpecflowSeleniumPOM\SpecflowSeleniumPOM\obj\Debug\SpecflowSeleniumPOM.dll
+c:\users\notso\onedrive\documents\visual studio 2017\Projects\SpecflowSeleniumPOM\SpecflowSeleniumPOM\obj\Debug\SpecflowSeleniumPOM.pdb
