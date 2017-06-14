@@ -63,7 +63,8 @@
       <DependentUpon>SearchProduct.feature</DependentUpon>
     </Compile>
     <Compile Include="SpecflowScenarioTests\SearchProductSteps.cs" />
-    <Compile Include="Tests%28Standard%29\SearchProjectTest.cs" />
+    <Compile Include="Tests%28Standard Nunit%29\StandardNunitTest.cs" />
+    <Compile Include="Tests%28Standard POM%29\SearchProjectTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

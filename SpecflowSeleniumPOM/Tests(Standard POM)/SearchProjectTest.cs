@@ -13,7 +13,7 @@ namespace SpecflowSeleniumPOM.Tests
     class SearchProjectTest
     {
         [Test]
-        public void test()
+        public void TestNunitPOM()
         {
             IWebDriver driver = new ChromeDriver();
 
