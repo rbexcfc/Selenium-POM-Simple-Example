@@ -11,11 +11,11 @@ namespace SpecflowSeleniumPOM.SpecflowScenarioTests
     {
         private HomePage _homepage;
 
+        IWebDriver driver = new ChromeDriver();
+
         [Given(@"I have gone to the Amazon homepage")]
         public void GivenIHaveGoneToTheAmazonHomepage()
-        {
-            IWebDriver driver = new ChromeDriver();
-
+        {   
             _homepage = new HomePage(driver);
 
             driver.Url = "https://www.amazon.co.uk";
@@ -39,6 +39,8 @@ namespace SpecflowSeleniumPOM.SpecflowScenarioTests
         public void ThenTheLinkShouldShowTheCorrectItemDetails()
         {
             _homepage.checkProduct();
+
+            driver.Quit();
         }
     }
 }
