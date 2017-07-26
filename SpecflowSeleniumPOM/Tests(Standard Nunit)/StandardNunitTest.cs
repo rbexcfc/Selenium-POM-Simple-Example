@@ -26,7 +26,7 @@ namespace SpecflowSeleniumPOM.Tests_Standard_Nunit_
 
             string title = driver.Title;
 
-            Assert.That(title.Equals("Amazon.co.uk: Low Prices in Electronics, Books, Sports Equipment & more"));
+            Assert.That(title.Equals("goose"));
 
         }
         
