@@ -46,7 +46,7 @@ namespace SpecflowSeleniumPOM.Pages
         {
             string title = productTitle.Text;
 
-            Assert.That(title.Contains("adidas Men's Chelsea Fc 2016 Home Jerseyllll"));
+            Assert.That(title.Contains("adidas Men's Chelsea Fc 2016 Home Jersey"));
         }
 
     }
