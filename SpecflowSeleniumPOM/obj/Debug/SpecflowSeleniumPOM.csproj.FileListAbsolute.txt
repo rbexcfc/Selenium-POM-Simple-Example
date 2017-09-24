@@ -1,4 +1,3 @@
-c:\users\notso\onedrive\documents\visual studio 2017\Projects\SpecflowSeleniumPOM\SpecflowSeleniumPOM\obj\Debug\SpecflowSeleniumPOM.csprojResolveAssemblyReference.cache
 c:\users\notso\onedrive\documents\visual studio 2017\Projects\SpecflowSeleniumPOM\SpecflowSeleniumPOM\bin\Debug\SpecflowSeleniumPOM.dll.config
 c:\users\notso\onedrive\documents\visual studio 2017\Projects\SpecflowSeleniumPOM\SpecflowSeleniumPOM\bin\Debug\SpecflowSeleniumPOM.dll
 c:\users\notso\onedrive\documents\visual studio 2017\Projects\SpecflowSeleniumPOM\SpecflowSeleniumPOM\bin\Debug\SpecflowSeleniumPOM.pdb
