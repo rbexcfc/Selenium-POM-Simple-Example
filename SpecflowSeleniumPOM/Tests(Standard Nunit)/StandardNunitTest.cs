@@ -12,7 +12,7 @@ namespace SpecflowSeleniumPOM.Tests_Standard_Nunit_
     class StandardNunitTest
     {
         IWebDriver driver;
-
+        [Category("TFSFriendly")]
         [SetUp]
         public void Init()
         {
