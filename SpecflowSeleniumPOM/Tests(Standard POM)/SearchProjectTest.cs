@@ -12,7 +12,6 @@ namespace SpecflowSeleniumPOM.Tests
 {
     class SearchProjectTest
     {
-        [Category("TFSFriendly")]
         [Test]
         public void TestNunitPOM()
         {
