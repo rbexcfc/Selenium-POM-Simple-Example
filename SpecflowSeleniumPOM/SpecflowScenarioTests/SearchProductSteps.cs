@@ -12,7 +12,7 @@ namespace SpecflowSeleniumPOM.SpecflowScenarioTests
         private HomePage _homepage;
 
         IWebDriver driver = new ChromeDriver();
-
+        
         [Given(@"I have gone to the Amazon homepage")]
         public void GivenIHaveGoneToTheAmazonHomepage()
         {   
